@@ -1,9 +1,4 @@
-# Onsite Day Task
-
-It's great that you are joining us for an onsite day and we are really looking forward to it. Below, we have
-specified an onsite day project for you to test your abilities and give you the opportunity to showcase what you can achieve.
-
-You have time until the presentation for implementing it. Please don't hesitate to reach out in case you have any questions.
+# Asylum seeking RAG app
 
 ## Context
 
