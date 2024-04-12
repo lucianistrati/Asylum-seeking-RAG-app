@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "onsite-merantix"
+version = "0.1.0"
+description = ""
+authors = ["lucianistrati <lucianistrati@yahoo.com>"]
+readme = "README.md"
+packages = [{include = "onsite_merantix", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.0.350"
+openai = "^1.4.0"
+weaviate-client = "^3.25.3"
+dotenv-python = "^0.0.1"
+pypdf = "^3.17.2"
+tiktoken = "^0.5.2"
+chromadb = "^0.4.20"
+spacy = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
