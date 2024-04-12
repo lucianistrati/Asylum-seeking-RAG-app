@@ -1,14 +1,6 @@
 # Asylum seeking RAG app
 
-## Context
-
-The purpose of Merantix Momentum is to implement machine learning solutions for clients with all sorts of use cases in all kinds of industries.
-
-Your position is within the NLP team, implementing solutions that involve natural language.
-
-## Project Specification
-
-In this onsite day project, you are working to solve some issues the "Hamburger Asylbehörde" has. This public office is responsible for the asylum process in Hamburg, Germany. Employees of the office have to regularly respond to specific requests of asylees. Since legislation and other rules frequently change, this requires looking up relevant sources to determine how to respond to a specific request.
+This projects aims to solve some of the issues that "Hamburger Asylbehörde" has. This public office is responsible for the asylum process in Hamburg, Germany. Employees of the office have to regularly respond to specific requests of asylees. Since legislation and other rules frequently change, this requires looking up relevant sources to determine how to respond to a specific request.
 
 Your task is to build/design a tool that helps employees of the office to respond to requests. The tool should be able to retrieve relevant sources from the given data and formulate a response.
 
