@@ -19,4 +19,4 @@ pip install requirements.txt
 There are three py files in the src directroy:
 - api.py
 - mistral.py
-- main
+- rag.py
