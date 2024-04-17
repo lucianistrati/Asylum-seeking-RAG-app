@@ -15,3 +15,8 @@ Example Questions are:
 The solution that was developed comes with a streamlit developed chat app that uses langchain for the chat plugin that interacts with the Open AI API as well as the Mistral API (the choice of VectorDB for the project was PineconeDB).
 
 pip install requirements.txt
+
+There are three py files in the src directroy:
+- api.py
+- mistral.py
+- main
